@@ -1,0 +1,109 @@
+.header-bg{
+  background-color: #F2FEFF;
+}
+
+.noto-sans{
+  font-family: 'Noto Sans', sans-serif;
+} 
+
+.cursor-pointer{
+  cursor: pointer;
+}
+.color-black{
+  color: black
+}
+
+.color-grey{
+  color:grey
+}
+
+.bg-color-nav-button{
+  background-color: #01E97C;
+}
+
+.text-deco-none{
+  text-decoration:none
+}
+
+.bg-color-black{
+  background-color: rgba(114, 114, 114, 0.582);
+}
+
+.under-line{
+  padding: 1px;
+  border-radius: 1rem;
+}
+
+
+.bg-F3FFFF{
+  background-color: #F3FFFF;
+}
+
+.space-texts{
+  letter-spacing: 8px;
+}
+
+.custom-font-size{
+  font-size: 13px;
+}
+
+.custom-font-size-1{
+  font-size: 12px;
+}
+
+.bg-footer{
+  background-color: #121C2B;
+}
+
+.color-fff{
+  color:#fff
+}
+
+.Lobster-cursive{
+  font-family: 'Lobster', cursive;
+}
+.icons-remove-link{
+  text-decoration: none;
+}
+
+.text-justify{
+  text-align: justify;
+}
+
+/* animations */
+.button-hover:hover{
+  background-color: crimson;
+  color:#fff;
+  transition: 0.5s;
+}
+
+.button-hover{
+  transition: 0.5s;
+}
+
+.text-hover:hover{
+  color:crimson;
+  transition: 0.5s;
+}
+
+.text-hover{
+  transition: 0.5s;
+}
+
+.animate__animated.animate__fadeInUp{
+  --animate-duration: 3s;
+}
+
+.animate__animated.animate__fadeInUpBig{
+  --animate-duration: 2s;
+}
+
+.animate__animated.animate__fadeIn{
+  --animate-duration: 3s;
+}
+
+.hero-bg{
+  background-image: url('https://images.unsplash.com/photo-1580193769210-b8d1c049a7d9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1474&q=80');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
